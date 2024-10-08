@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Jmadsm\EventProxyHelper\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class EventProxyHelperCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'event-proxy-helper';
 
     public $description = 'My command';
 

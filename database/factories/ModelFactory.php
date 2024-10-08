@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Database\Factories;
+namespace Jmadsm\EventProxyHelper\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 
